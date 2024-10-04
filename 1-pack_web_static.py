@@ -18,4 +18,3 @@ def do_pack():
     except Exception as e:
         print("An error occurred:", e)
         return None
-    
